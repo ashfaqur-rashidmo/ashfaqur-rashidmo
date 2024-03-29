@@ -1,8 +1,11 @@
  Hi👋  I’m Mohammad Ashfaqur Rashid
 
 I’m interested in ...computer graphics,sports
+
 🌱 I’m currently learning ...
+
 💞️ I’m looking to collaborate on ...
+
 📫 How to reach me ...ashfaqurrashid1@gmail.com
   
 ![Computer-science-engineering](https://github.com/ashfaqur-rashidmo/ashfaqur-rashidmo/assets/135977170/f38db8bb-a274-4df3-87a8-9eaaa042b717)
