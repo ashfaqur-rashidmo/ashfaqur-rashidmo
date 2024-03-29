@@ -1,5 +1,5 @@
 Hi👋  I’m Mohammad Ashfaqur Rashid
-I’m interested in ...computer graphics,sports
+-I’m interested in ...computer graphics,sports
 🌱 I’m currently learning ...
 💞️ I’m looking to collaborate on ...
 📫 How to reach me ...ashfaqurrashid1@gmail.com
