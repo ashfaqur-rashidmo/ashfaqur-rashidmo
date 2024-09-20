@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Ashfaqur Rashid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqur-rashidmo&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaqur-rashidmo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaqur-rashidmo" alt="ashfaqur-rashidmo" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/https://x.com/ashfaq1614" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ashfaq1614?logo=twitter&style=for-the-badge" alt="https://x.com/ashfaq1614" /></a> </p>
 
