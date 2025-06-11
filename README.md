@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Ashfaqur Rashid</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
-<img src="https:(https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300px" align="right" alt="coding gif" />
+<img src="https:https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt="coding gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashfaqur-rashidmo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
