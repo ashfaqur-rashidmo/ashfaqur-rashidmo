@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://x.com/ashfaq1614" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/asfaq.rasid" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
