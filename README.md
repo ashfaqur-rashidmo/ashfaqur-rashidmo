@@ -1,84 +1,153 @@
 <h1 align="center">Hi 👋, I'm MD. Ashfaqur Rashid</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Competitive Programmer</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt="coding gif" />
-
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashfaqur-rashidmo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashfaqur-rashidmo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-- 👨‍💻 All of my projects are available at:  
-  [**Portfolio Website**](https://react-portfolio-2jju.vercel.app/)
-
-- 📝 I regularly write articles on:  
-  [**My Blog**](https://www.blogger.com/blog/posts/4020497593746868866?hl=en-GB)
-
-- 📫 Reach me at: **ashfaqurrashid1@gmail.com**
-
-- ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
 
-### 🔗 Connect with me
+## 🚀 About Me
+
+- 🌱 Currently learning **Next.js, TypeScript, and Backend Development**
+- 💻 Passionate about building **modern, responsive, and user-friendly web applications**
+- 🧠 Practicing **Data Structures & Algorithms** on LeetCode
+- 🎯 Goal: Become a **Full Stack Developer**
+- ⚡ Fun fact: **I debug faster after drinking coffee ☕**
+
+---
+
+## 🌐 Portfolio & Contact
+
+<p align="left">
+  <a href="https://react-portfolio-2jju.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="mailto:ashfaqurrashid1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.blogger.com/blog/posts/4020497593746868866?hl=en-GB" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://x.com/ashfaq1614" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+
   <a href="https://www.facebook.com/asfaq.rasid" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/alternative_satisfied/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/ashfaq08/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://github.com/ashfaqur-rashidmo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Skills
+# 💻 Tech Stack
 
-#### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
+### 🚀 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
-#### Backend & Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-#### Others
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator" />
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator" />
+</p>
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 📌 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfaqur-rashidmo&show_icons=true&locale=en" alt="GitHub Stats" />
+### 🛒 E-Commerce Website
+- Modern responsive e-commerce application
+- Built using React, Firebase, and Tailwind CSS
+- Authentication and product management features
+
+### 📝 MERN Blog Application
+- Full-stack blogging platform
+- CRUD functionality with MongoDB and Express.js
+- Responsive dashboard UI
+
+### 🍲 Recipe App
+- Search and explore recipes dynamically
+- API integration with React.js
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaqur-rashidmo&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqur-rashidmo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaqur-rashidmo" alt="GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaqur-rashidmo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaqur-rashidmo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashfaqur-rashidmo&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaqur-rashidmo&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const ashfaqur = {
+  code: ["JavaScript", "TypeScript", "C++"],
+  technologies: {
+    frontend: ["React", "Redux", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+  },
+  currentFocus: "Building Full Stack MERN Applications",
+};
