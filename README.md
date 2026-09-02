@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashfaqur-rashidmo/ashfaqur-rashidmo/main/github-banner1.jpg" alt="MD. Ashfaqur Rashid Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashfaqur-rashidmo/ashfaqur-rashidmo/main/github-banner3.jpg" alt="MD. Ashfaqur Rashid Banner" width="100%" />
 </p>
 
 # Hi 👋, I'm MD. Ashfaqur Rashid
