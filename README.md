@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashfaqur-rashidmo/ashfaqur-rashidmo/main/github-banner2.jpg" alt="MD. Ashfaqur Rashid Banner" width="100%" />
+</p>
+
 # Hi 👋, I'm MD. Ashfaqur Rashid
 
 ### Full Stack Web Developer
-
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=200&section=header&text=MD.%20Ashfaqur%20Rashid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner" width="100%"](https://github.com/ashfaqur-rashidmo/ashfaqur-rashidmo/blob/main/github-banner2.jpg) />
-</p>
 
 ---
 
