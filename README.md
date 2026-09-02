@@ -1,90 +1,81 @@
 # Hi 👋, I'm MD. Ashfaqur Rashid
 
-### CSE Student | Junior Web Developer | AI/ML Enthusiast
+### Full Stack Web Developer
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:4facfe,100:00f2fe\&height=180\&section=header\&text=MD.%20Ashfaqur%20Rashid\&fontSize=35\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=200&section=header&text=MD.%20Ashfaqur%20Rashid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner" width="100%" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student interested in web development and Artificial Intelligence. I enjoy learning new technologies and building small projects to improve my programming skills.
+I am a passionate **Full Stack Web Developer** focused on building modern, responsive, and user-friendly web applications. I love solving problems, learning scalable technologies, and creating clean digital experiences.
 
-* 🌱 Currently learning **React, Next.js and Node.js**
-* 🤖 Exploring **Artificial Intelligence and Machine Learning**
-* 💻 Working on web development projects
-* 🧠 Practicing programming and problem solving
-* 📚 Working on academic and research projects
-* 🎯 My goal is to become a skilled software/AI engineer
+* 🚀 Currently expanding my skills in **Full Stack Development** & **Scalable Web Applications**
+* 💻 Actively building dynamic projects using **React, Next.js, Node.js, and TypeScript**
+* 🎨 Crafting modern user interfaces with **Tailwind CSS and Figma**
+* 🧠 Passionate about clean code, performance optimization, and problem-solving
 
-## 🛠️ Skills
+---
 
-### Programming Languages
+## 🛠️ Skills & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-## 🚀 Projects
-
-### 🌍 Tour Mama
-
-A tourism website where users can explore different travel destinations.
-
-**Technologies:** React, JavaScript, Tailwind CSS
-
-🔗 [Live Demo](YOUR_LIVE_LINK)
-
-### 🛒 E-Commerce Website
-
-A web-based e-commerce project with product browsing and shopping features.
-
-**Technologies:** React, Node.js, Express, MongoDB
-
-🔗 [Live Demo](YOUR_LIVE_LINK)
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,cpp,python,git,github,vscode,figma" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🚀 Featured Projects
+
+### 🌍 Tour Mama
+> A full-featured tourism platform where users can explore destinations, view tour details, and plan their travels seamlessly.
+
+* **Tech Stack:** React, JavaScript, Tailwind CSS
+* **Links:** [Live Demo](https://your-tour-mama-link.com) | [Source Code](https://github.com/ashfaqur-rashidmo)
+
+---
+
+### 🛒 E-Commerce Web Application
+> A modern full-stack e-commerce experience complete with product browsing, state management, and seamless backend integration.
+
+* **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+* **Links:** [Live Demo](https://your-ecommerce-link.com) | [Source Code](https://github.com/ashfaqur-rashidmo)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashfaqur-rashidmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqur-rashidmo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaqur-rashidmo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashfaqur-rashid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ashfaqur-rashidmo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ashfaqurrashid1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to reach out for collaborations or project inquiries.</i>
+</p>
